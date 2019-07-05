@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lemes.augusto</groupId>
-	<artifactId>bex</artifactId>
+	<artifactId>bexs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bex</name>
-	<description>Bex Project</description>
+	<name>bexs</name>
+	<description>Bexs Project</description>
 
 	<properties>
 		<java.version>1.8</java.version>

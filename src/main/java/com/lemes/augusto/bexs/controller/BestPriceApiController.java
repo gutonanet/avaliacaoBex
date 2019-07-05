@@ -1,4 +1,4 @@
-package com.lemes.augusto.bex.controller;
+package com.lemes.augusto.bexs.controller;
 
 import java.util.Set;
 
@@ -9,11 +9,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.lemes.augusto.bex.dto.BestPriceViewDTO;
-import com.lemes.augusto.bex.dto.ParamDTO;
-import com.lemes.augusto.bex.dto.RouteDTO;
-import com.lemes.augusto.bex.exception.BestPriceException;
-import com.lemes.augusto.bex.service.BestPriceService;
+import com.lemes.augusto.bexs.dto.BestPriceViewDTO;
+import com.lemes.augusto.bexs.dto.ParamDTO;
+import com.lemes.augusto.bexs.dto.RouteDTO;
+import com.lemes.augusto.bexs.exception.BestPriceException;
+import com.lemes.augusto.bexs.service.BestPriceService;
 
 /**
  * 

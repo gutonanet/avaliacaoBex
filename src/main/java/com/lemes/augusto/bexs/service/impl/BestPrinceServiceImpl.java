@@ -1,4 +1,4 @@
-package com.lemes.augusto.bex.service.impl;
+package com.lemes.augusto.bexs.service.impl;
 
 import java.io.File ;
 import java.io.FileOutputStream;
@@ -17,10 +17,10 @@ import java.util.stream.Stream;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import com.lemes.augusto.bex.dto.BestPriceViewDTO;
-import com.lemes.augusto.bex.dto.RouteDTO;
-import com.lemes.augusto.bex.exception.BestPriceException;
-import com.lemes.augusto.bex.service.BestPriceService;
+import com.lemes.augusto.bexs.dto.BestPriceViewDTO;
+import com.lemes.augusto.bexs.dto.RouteDTO;
+import com.lemes.augusto.bexs.exception.BestPriceException;
+import com.lemes.augusto.bexs.service.BestPriceService;
 
 @Service
 public class BestPrinceServiceImpl implements BestPriceService {

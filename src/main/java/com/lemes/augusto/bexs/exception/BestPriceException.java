@@ -1,4 +1,4 @@
-package com.lemes.augusto.bex.exception;
+package com.lemes.augusto.bexs.exception;
 
 public class BestPriceException extends Exception {
 

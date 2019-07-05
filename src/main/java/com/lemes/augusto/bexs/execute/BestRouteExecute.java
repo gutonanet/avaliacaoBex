@@ -1,11 +1,11 @@
-package com.lemes.augusto.bex.execute;
+package com.lemes.augusto.bexs.execute;
 
 import java.util.Scanner;
 
-import com.lemes.augusto.bex.dto.BestPriceViewDTO;
-import com.lemes.augusto.bex.exception.BestPriceException;
-import com.lemes.augusto.bex.service.BestPriceService;
-import com.lemes.augusto.bex.service.impl.BestPrinceServiceImpl;
+import com.lemes.augusto.bexs.dto.BestPriceViewDTO;
+import com.lemes.augusto.bexs.exception.BestPriceException;
+import com.lemes.augusto.bexs.service.BestPriceService;
+import com.lemes.augusto.bexs.service.impl.BestPrinceServiceImpl;
 
 /**
  * 

@@ -1,11 +1,11 @@
-package com.lemes.augusto.bex.service;
+package com.lemes.augusto.bexs.service;
 
 import java.util.Map;
 import java.util.Set;
 
-import com.lemes.augusto.bex.dto.BestPriceViewDTO;
-import com.lemes.augusto.bex.dto.RouteDTO;
-import com.lemes.augusto.bex.exception.BestPriceException;
+import com.lemes.augusto.bexs.dto.BestPriceViewDTO;
+import com.lemes.augusto.bexs.dto.RouteDTO;
+import com.lemes.augusto.bexs.exception.BestPriceException;
 
 public interface BestPriceService {
 	

@@ -1,4 +1,4 @@
-package com.lemes.augusto.bex;
+package com.lemes.augusto.bexs;
 
 import static org.junit.Assert.assertEquals;
 
@@ -18,11 +18,11 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lemes.augusto.bex.controller.BestPriceApiController;
-import com.lemes.augusto.bex.dto.BestPriceViewDTO;
-import com.lemes.augusto.bex.dto.ParamDTO;
-import com.lemes.augusto.bex.dto.RouteDTO;
-import com.lemes.augusto.bex.service.BestPriceService;
+import com.lemes.augusto.bexs.controller.BestPriceApiController;
+import com.lemes.augusto.bexs.dto.BestPriceViewDTO;
+import com.lemes.augusto.bexs.dto.ParamDTO;
+import com.lemes.augusto.bexs.dto.RouteDTO;
+import com.lemes.augusto.bexs.service.BestPriceService;
 
 /**
  * 

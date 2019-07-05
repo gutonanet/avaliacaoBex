@@ -1,4 +1,4 @@
-package com.lemes.augusto.bex;
+package com.lemes.augusto.bexs;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class BexApplicationTests {
+public class BexsApplicationTests {
 
 	@Test
 	public void contextLoads() {
