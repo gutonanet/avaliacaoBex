@@ -16,6 +16,11 @@ public class BestRouteExecute {
 	
 	public static void main(String[] args) {
 		
+		if(args == null || args.length == 0) {
+	    	System.out.print("\n invalid file parameter \n");
+	    	System.exit(0);
+		}
+		
 		String path = args[0];
 		
 	    Scanner ler = new Scanner(System.in);
